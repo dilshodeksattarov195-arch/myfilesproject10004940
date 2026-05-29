@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartdave",
+        "uuid": 38744420,
+        "checksum": "9e99hg"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
